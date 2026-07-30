@@ -63,4 +63,10 @@ All blogs are publicly accessible, clearly structured, and written in beginner-f
 
 13. CSS Selectors 101 – Targeting Elements with Precision  
     https://ashutoshblogcss.hashnode.dev/css-selectors-101-targeting-elements-with-precision
+    
+---
+
+14. Understanding Objects in JavaScript
+    https://ashutoshhblogobjects.hashnode.dev/understanding-objects-in-javascript
+
 
